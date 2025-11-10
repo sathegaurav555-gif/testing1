@@ -35,10 +35,10 @@ function Resume({ onLogout }) {
   }, []);
 
   const profile = {
-    name: "Gaurav Patil",
+    name: "Gaurav Sathe",
     title: "Frontend Developer | React Enthusiast",
-    email: "gauravpatil@example.com",
-    phone: "+91 98765 43210",
+    email: "gauravsthe1753@gmail.com",
+    phone: "+91 9800000110",
     location: "Pune, Maharashtra, India",
     summary:
       "A passionate web developer with experience in building responsive and interactive web applications using React.js and modern front-end technologies. I love creating clean UI and seamless user experiences.",
