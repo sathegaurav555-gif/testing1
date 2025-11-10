@@ -10,3 +10,35 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+echo "# 🚀 Testing1 Project
+
+A modern web project built and maintained by **Gaurav Sathe**.  
+This repository includes frontend features like authentication, responsive design, and dark mode — all crafted with attention to user experience.
+
+---
+
+## 🧰 Tech Stack
+- **React.js** — Frontend framework  
+- **Node.js** — Backend support  
+- **HTML / CSS / JavaScript** — Core web technologies  
+- **Framer Motion** — Smooth animations  
+- **React Icons** — Beautiful icons for UI
+
+---
+
+## 🌟 Features
+- 🔐 Login & Signup page  
+- 🌙 Dark theme mode  
+- 💻 Responsive layout  
+- ⚙️ Clean and optimized React components  
+- 📁 Easy folder structure  
+
+---
+
+## ⚡ Setup Instructions
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/sathegaurav555-gif/testing1.git
+
+
